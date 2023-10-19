@@ -1,0 +1,22 @@
+{
+  "name": "c-c2plus",
+  "displayName": "C/C++ Extension pack",
+  "description": "",
+  "publisher": "EH.Milon",
+  "author": {
+    "name": "EH.Milon"
+  },
+  "icon": "icon.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "ms-python.isort", 
+    "ms-python.python", 
+    "ms-python.vscode-pylance"
+  ]
+}
